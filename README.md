@@ -1,6 +1,13 @@
-# omeganum_vortex
+# OmegaNum
+
+## welcome everybody!!
+
+
 a fork of [ArisuTendou's](https://www.roblox.com/users/1205999625/profile) readable version of OmegaNum on Roblox
+
+
 Original OmegaNum.js/OmegaNum.lua fork by [FoundForces](https://www.roblox.com/users/669755416/profile)
+
 
 Any function with string.rep will crash out with numbers >10000, don't use toShortScientific/toScientific and maybe avoid HyperE
 
